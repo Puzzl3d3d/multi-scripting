@@ -1,0 +1,6 @@
+print("Started script 2!")
+def foo(bar):
+    print("foo test",bar)
+
+print(foo("bar"))
+print("Completed script 2!")

@@ -1,0 +1,6 @@
+print("Started script 1!")
+def a(b):
+    print(b * 5)
+
+print(a(5))
+print("Completed script 1!")
